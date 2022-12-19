@@ -10,7 +10,7 @@ description: "On November 9, 2022, the New York Department of Financial Services
 author: Cyber Operator
 date: 2022-12-19T19:04:23.422Z
 tags:
-  - Tags
+  - FinTech
 ---
 # NYDFS Proposes Modifications to 23NYCRR 500
 
