@@ -1,5 +1,5 @@
 ---
-title: "Article Review: Tcp Syn Flood Attack Detection and Prevention System
+title: "Article Summary: Tcp Syn Flood Attack Detection and Prevention System
   using Adaptive Thresholding Method"
 description: Tcp Syn Flood Attack Detection and Prevention System using Adaptive
   Thresholding Method
