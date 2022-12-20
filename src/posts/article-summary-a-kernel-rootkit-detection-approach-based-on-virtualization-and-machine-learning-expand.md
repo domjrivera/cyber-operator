@@ -1,8 +1,8 @@
 ---
 title: " Article Summary: A Kernel Rootkit Detection Approach Based on
-  Virtualization and Machine Learning Expand"
+  Virtualization and Machine Learning"
 description: " A Kernel Rootkit Detection Approach Based on Virtualization and
-  Machine Learning Expand"
+  Machine Learning"
 author: Cyber Operator
 date: 2022-12-20T17:19:17.169Z
 tags:
