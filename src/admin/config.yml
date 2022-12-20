@@ -29,7 +29,7 @@ collections:
         name: "tags"
         multiple: true
         create: true
-        options: ["Tags", "created", "from", "config.yml"]
+        options: ["Cyber Law", "FinTech", "Hacking", "Cyber Security"]
   - label: "Settings"
     name: "settings"
     editor:
