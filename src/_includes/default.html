@@ -8,11 +8,6 @@
       {{title}}
     </title>
     
-    {%- for tag in tags | filterTagList -%}
-    {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
-    <a href="{{ tagUrl | url }}" class="post-tag animated-rainbow-hover">{{ tag }}</a>
-    {%- endfor %}
-    
     {% if description %}
       <meta name="description" content="{{description}}"/>
     {% endif %}
