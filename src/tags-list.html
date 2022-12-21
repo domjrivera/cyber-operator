@@ -15,7 +15,7 @@ eleventyNavigation:
 {% endfor %}
 </div>
 
-{% set maxPosts = collections.posts.length | min(5) %}
+{% set maxPosts = collections.posts.length %}
 <h2>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h3>
 
 {% set postslist = collections.posts | head(-5) %}
