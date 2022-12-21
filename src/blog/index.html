@@ -37,5 +37,12 @@ layout: blog
             </p>
 
         </article>
+    
+        <div class="tags tags--buttons">
+            {%- for tag, val in collections.tagList -%}
+            <a href="/tags/{{tag}}">{{tag}}</a> 
+            
+  {%- endfor -%}
+</div>
     {% endfor %}
 </section>
