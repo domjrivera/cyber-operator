@@ -1,7 +1,7 @@
 links:
   - title: FinTech
-    url: https://cyberoperator.com/tags/fintech/
-    desc: "Financial Services Cybersecurity Articles "
+    url: https://www.cyberoperator.com/tags/fintech/
+    desc: Financial Services Cybersecurity
   - title: Eleventy
     url: https://www.11ty.dev/
     desc: Eleventy is a simpler static site generator.
