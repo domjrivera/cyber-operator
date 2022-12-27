@@ -5,5 +5,5 @@ items:
     url: "#"
   - text: Menu Three
     url: "#"
-  - text: Blog
+  - text: Articles
     url: /blog
