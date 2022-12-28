@@ -11,6 +11,7 @@ author: Cyber Operator
 date: 2022-12-19T19:04:23.422Z
 tags:
   - FinTech
+  - Regulations
 ---
 # NYDFS Proposes Modifications to 23NYCRR 500
 
