@@ -1,6 +1,10 @@
 ---
 title: SEC Proposed Cybersecurity Disclosure Rules
-description: SEC Proposed Cybersecurity Disclosure Rules
+description: "SEC Proposed Cybersecurity Disclosure Rules: In March 2022, the
+  Securities and Exchange Commission (“SEC”) announced [proposed amendments to
+  its rules](https://www.sec.gov/rules/proposed/2022/33-11038.pdf) (“Proposed
+  Rules”) concerning cybersecurity disclosures for publicly traded companies
+  (“issuers”)."
 author: Cyber Operator
 date: 2022-12-28T19:03:08.778Z
 tags:
