@@ -1,9 +1,5 @@
 items:
   - text: Home
     url: https://www.cyberoperator.com
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
   - text: Articles
     url: /blog
