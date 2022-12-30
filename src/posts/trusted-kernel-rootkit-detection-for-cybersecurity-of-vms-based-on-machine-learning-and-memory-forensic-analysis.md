@@ -1,6 +1,6 @@
 ---
-title: "*Trusted Kernel Rootkit Detection for Cybersecurity of VMs Based on
-  Machine Learning and Memory Forensic Analysis*"
+title: Trusted Kernel Rootkit Detection for Cybersecurity of VMs Based on
+  Machine Learning and Memory Forensic Analysis*
 description: In summary, the journal presents a convincing method, a TKRD
   (Trusted Kernel Rootkit Detection), to detect known and unknown rootkits in
   VMs from private cloud environments. The method combines the memory forensic
