@@ -9,8 +9,6 @@ tags:
 ---
 # GenAI Current Vulnerabilities and Threats
 
-## Applicability of the NYDFS Regulations
-
 This article aims to provide an overview of the potential security threats and vulnerabilities associated with generative AI, as well as some known examples of exploitation, mitigation strategies, and advice for implementation.
 
 ## Potential Security Threats:
