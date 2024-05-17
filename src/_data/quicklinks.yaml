@@ -5,6 +5,12 @@ links:
   - title: Security Articles
     url: https://www.cyberoperator.com/tags/security%20article%20review/
     desc: Summary of Peer Reviewed Cybersecurity Articles
+  - title: Generative AI and Large Language Models
+    url: https://www.cyberoperator.com/tags/genai/
+    desc: GenAI and Large Language Model Security
+  - title: Cyber Forensics
+    url: https://www.cyberoperator.com/tags/forensics/
+    desc: Cyber Forensics
   - title: Cybersecurity Education
     url: https://www.cyberoperator.com/tags/cybersecurity-education/
     desc: Educational hacking security examples and cybersecurity education
